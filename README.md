@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abdrishad
-- 👀 I’m interested in app and web development
-- 🌱 I will be passing out in 2024 with a major production engineering
-- 💞️ I’m looking to learn more about open software and and their applications
+- 👀 I’m a brainstormer and love crazy ideas.
+- 🌱 I will be graduating in 2024 with a major in production engineering
+- 💞️ I’m looking to learn more about open source software and and their applications
 - mail me : rishadabdullahemo@gmail.com
 
 <!---
